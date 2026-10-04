@@ -39,7 +39,6 @@ apis:
   - name: Transport for Toronto, Canada
     description: "TTC"
     humanURL: https://myttc.ca/developers
-    baseURL: https://myttc.ca/developers
     tags:
       - Transportation
     properties:
